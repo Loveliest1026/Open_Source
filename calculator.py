@@ -8,3 +8,5 @@ def sub(a, b):
 def multi(a, b):
     return a * b
 
+def mix(a,b,c):
+    return a+b-c
